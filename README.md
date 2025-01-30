@@ -40,8 +40,6 @@ Installation
 
     bash
 
-git clone https://github.com/your-username/yapping.git
-
 Navigate to the project directory:
 
 bash
